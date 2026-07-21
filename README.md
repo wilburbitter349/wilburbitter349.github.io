@@ -1,6 +1,3 @@
-<html lang="en" class="scroll-smooth">
-<head>
-    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Vignesh BG - Senior Software Engineer & Full Stack Web Developer with 8+ years of experience in Laravel, PHP, WordPress, CRM, and ERP platforms.">
     <meta name="keywords" content="Vignesh BG, Senior Software Engineer, Full Stack Developer, Laravel, PHP, WordPress, Bengaluru, Web Developer Portfolio">
@@ -17,8 +14,6 @@
     
     <!-- Custom CSS -->
     <link rel="stylesheet" href="style.css">
-</head>
-<body>
 
     <!-- Scroll Progress Bar -->
     <div id="progress-bar"></div>
