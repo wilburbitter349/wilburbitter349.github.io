@@ -1,3 +1,4 @@
+<html>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Vignesh BG - Senior Software Engineer & Full Stack Web Developer with 8+ years of experience in Laravel, PHP, WordPress, CRM, and ERP platforms.">
     <meta name="keywords" content="Vignesh BG, Senior Software Engineer, Full Stack Developer, Laravel, PHP, WordPress, Bengaluru, Web Developer Portfolio">
